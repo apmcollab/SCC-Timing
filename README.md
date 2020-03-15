@@ -3,7 +3,7 @@ ClockIt class instances are used to facilitate working with system clocks on MS 
 ### Prerequisites
 C++11
 ### Versioning
-Release : 19.12.16
+Release : 1.0.1
 ### Authors
 Chris Anderson
 ### License
