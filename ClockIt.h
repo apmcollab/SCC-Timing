@@ -1,5 +1,5 @@
-#ifndef _ClockIt_
-#define _ClockIt_
+#ifndef Clock_IT_
+#define Clock_IT_
 //
 // This version of Class ClockIt can be used on either a Linux/Unix or MS system 
 // to time portions of code. 
