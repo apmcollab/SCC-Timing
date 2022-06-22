@@ -27,7 +27,7 @@ clock1.start();              // start the instance (reads the clock)
 
 clock1.stop();               // stop the clock (reads the clock again)
 
-cout << "Time elapsed in Milli-seconds: " << clock1.getMilliSecElapsedTime() << endl;
+std::cout << "Time elapsed in Milli-seconds: " << clock1.getMilliSecElapsedTime() << endl;
 
 }
 */
